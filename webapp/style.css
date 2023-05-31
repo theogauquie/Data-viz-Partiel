@@ -1,0 +1,32 @@
+div{
+    margin-top: 5remrem;
+    text-align: center;
+    
+}
+
+button{
+    margin-top: 2rem;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 30px;
+    background-color: cadetblue;
+}
+
+p{
+    margin-top: 13rem;
+    font-size: 4rem;
+    text-align: center;
+}
+
+body{
+    background-color: bisque;
+}
+
+
+h1{
+    background-color: cadetblue;
+    font-size: 2rem;
+    height: 5rem;
+    text-align: center;
+
+}
